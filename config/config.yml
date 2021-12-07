@@ -1,0 +1,4 @@
+environment: main
+mongo:
+  server: localhost
+  database: mongogb
